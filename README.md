@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm chaeyoung</h1>
 <h3 align="center">I'm going to be a backend developer</h3>
 
-<p>
+
 
 - 🌱 I’m currently learning **Java, mariaDB**
 
@@ -13,7 +13,8 @@
 
 - 📫 How to reach me **chaedud02@gmail.com**
 
-<p>
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaeyoung02&show_icons=true&locale=en&layout=compact" alt="chaeyoung02" /></p>
 
