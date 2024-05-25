@@ -20,8 +20,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaeyoung02&show_icons=true&locale=en" alt="chaeyoung02" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaeyoung02&" alt="chaeyoung02" /></p>
-
 <h3 align="left">🛠 Tools 🛠</h3>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
