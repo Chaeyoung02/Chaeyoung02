@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice)
+![header](https://capsule-render.vercel.app/api?type=wavw)
 <h1 align="center">Hi 👋, I'm chaeyoung</h1>
 <h3 align="center">I'm going to be a backend developer</h3>
 
