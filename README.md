@@ -1,7 +1,8 @@
 
-<div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
+![header](https://capsule-render.vercel.app/api?text=Hello%World!)
+![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?color=auto)
 
 <h1 align="center">Hi 👋, I'm chaeyoung</h1>
 <h3 align="center">I'm going to be a backend developer</h3>
