@@ -1,6 +1,4 @@
-
-
-![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=[slice](https://camo.githubusercontent.com/5dab48393898b7624797094a348bb822142567a4ceac75e26fe8f01b96305339/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d32303026746578743d576176696e672126666f6e74416c69676e3d383026666f6e74416c69676e593d343026636f6c6f723d6772616469656e74))
 
 <h1 align="center">Hi 👋, I'm chaeyoung</h1>
 <h3 align="center">I'm going to be a backend developer</h3>
