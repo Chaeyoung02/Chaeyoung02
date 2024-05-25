@@ -17,9 +17,10 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaeyoung02&show_icons=true&locale=en&layout=compact" alt="chaeyoung02" /></p>
+<br>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=chaeyoung02&show_icons=true&locale=en" alt="chaeyoung02" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=chaeyoung02&show_icons=true&locale=en" alt="chaeyoung02" /></p>
+<br>
 <h3 align="left">🛠 Tools 🛠</h3>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
