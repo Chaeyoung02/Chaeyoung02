@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving)
 ![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30)
 
 <h1 align="center">Hi 👋, I'm chaeyoung</h1>
