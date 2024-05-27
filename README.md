@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Java, mariaDB**
+- 🌱 I’m currently learning **Java, mariaDB, Mybatis**
 
 - 👯 My first joint project on [SmartRentCare](https://github.com/SmartRentalCare/JSP)
 
