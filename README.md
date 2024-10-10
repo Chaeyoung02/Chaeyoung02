@@ -7,8 +7,9 @@
 
 - 🌱 I’m currently learning **Java, mariaDB, Mybatis**
 
-- 👯 projects [LinkOffice](https://github.com/SmartRentalCare/JSP)
-  - [KnockBook](https://github.com/SmartRentalCare/JSP)
+- 👯 projects
+  - [LinkOffice](https://github.com/SmartRentalCare/JSP)
+  - [KnockBook](https://github.com/6CanDoIt-Goodee/semi_final)
   -  [SmartRentCare](https://github.com/SmartRentalCare/JSP)
 
 - 📝 I regularly write articles on [https://velog.io/@chaedud_02/posts](https://velog.io/@chaedud_02/posts)
