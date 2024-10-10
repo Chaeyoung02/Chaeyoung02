@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Java, mariaDB, Mybatis**
 
 - 👯 projects
-  - [LinkOffice](https://github.com/SmartRentalCare/JSP)
+  - [LinkOffice](https://github.com/FiveLink-final/LinkOffice)
   - [KnockBook](https://github.com/6CanDoIt-Goodee/semi_final)
   -  [SmartRentCare](https://github.com/SmartRentalCare/JSP)
 
