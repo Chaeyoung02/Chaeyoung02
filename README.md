@@ -9,7 +9,7 @@
 
 - 👯 projects
   - [LinkOffice](https://github.com/FiveLink-final/LinkOffice)
-  - [KnockBook](https://github.com/6CanDoIt-Goodee/semi_final)
+  - [KnockBook](https://github.com/Chaeyoung02/KnockBook)
   -  [SmartRentCare](https://github.com/SmartRentalCare/JSP)
 
 - 📝 I regularly write articles on [https://velog.io/@chaedud_02/posts](https://velog.io/@chaedud_02/posts)
