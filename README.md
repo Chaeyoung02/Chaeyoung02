@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Java, mariaDB, Mybatis**
+- 🌱 I’m currently learning **Redis, NoSQL**
 
 - 👯 projects
   - [LinkOffice](https://github.com/FiveLink-final/LinkOffice)
